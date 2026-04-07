@@ -13,6 +13,7 @@ This repo is being used to organize homework assignments, labs, and course proje
 ## Labs
 
 - `Rock Paper Scissor` - a single-player rock paper scissor lab written in C
+- `Tic Tac Toe` - a two-player tic tac toe lab written in C
 
 ## About The Course
 
